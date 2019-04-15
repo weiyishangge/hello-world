@@ -1,2 +1,8 @@
 # hello-world
-test the github
+
+#include <stdio.h>
+
+void mian()
+{
+    printf("hello world!\n");
+}
